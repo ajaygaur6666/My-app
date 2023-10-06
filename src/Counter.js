@@ -12,7 +12,7 @@ export default function Counter(){
 
         return(
         <>
-      <div>{num}</div>
+      <div>MYnuber{num}</div>
       <button onClick={Dec}>-</button>
       <button onClick={Inc}>+</button>
         </>
